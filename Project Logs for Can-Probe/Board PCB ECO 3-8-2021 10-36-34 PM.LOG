@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=P? Old Footprint=TERM_0.4IN_2x1_0 New Footprint=TERM_3.50MM_2x1_0
+Change component parameters: Designator = "P?" ("P?"); Footprint = "TERM_0.4IN_2x1_0"; UniqueID = "\TLTVXQYG" ("\TLTVXQYG")
+Change component parameters (AddParameter): Name = "Cost"; Value = "0.79"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Levels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = "1861933"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CONN-00023"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions per level"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Terminal Block"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "1.13"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=NetU?_14 Pin=U?-14
+Added Net: Name=NetU?_14
+Added Pin To Net: NetName=NetU?_16 Pin=U?-16
+Added Net: Name=NetU?_16
+Added Pin To Net: NetName=NetU?_17 Pin=U?-17
+Added Net: Name=NetU?_17
+Added Pin To Net: NetName=NetU?_19 Pin=U?-19
+Added Net: Name=NetU?_19
+Added Member To Class: ClassName=01_MCU Member=Component C? 0.1µF
+Added Member To Class: ClassName=01_MCU Member=Component C? 0.1µF
+Added Member To Class: ClassName=01_MCU Member=Component C? 18pF
+Added Member To Class: ClassName=01_MCU Member=Component C? 0.1µF
+Added Member To Class: ClassName=01_MCU Member=Component C? 0.1µF
+Added Member To Class: ClassName=03_Periphs Member=Component P? usb_micro_b
